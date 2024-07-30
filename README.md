@@ -78,6 +78,9 @@
 
 歡迎提交 Pull Requests 來改進這個項目。對於重大更改，請先開 issue 討論您想要改變的內容。
 
-## 授權
+## 作者
 
-本項目採用 MIT 授權 - 詳情請查看 [LICENSE](LICENSE) 文件。
+👤 **KKCAT**
+
+- Telegram: [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kkkkkcat)
+- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://img.shields.io/badge/-Twitter-1DA1)
