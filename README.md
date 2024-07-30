@@ -4,8 +4,8 @@
 
 ## 📱 示範網址
 
-https://xip.im
-https://xip.im/api
+- https://xip.im
+- https://xip.im/api
 
 ## ⭐ 特點
 
