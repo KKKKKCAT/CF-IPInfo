@@ -1,6 +1,3 @@
-Here's the English version of the README:
-
-```markdown
 # ✔ CloudFlare IP Info Dashboard
 
 A powerful, serverless, and free IP information dashboard solution powered by Cloudflare Workers, featuring a user-friendly interface and multi-language support.
