@@ -30,7 +30,7 @@
 
 ## 👀 演示
 
-（在這裡，您可以添加您的演示頁面鏈接或截圖）
+![](https://raw.githubusercontent.com/KKKKKCAT/CF-IPInfo/main/img/CF-IPInfo-1.webp)
 
 ## ⚡ 快速開始
 
