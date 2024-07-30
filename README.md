@@ -41,7 +41,7 @@
 4. 將提供的代碼複製並粘貼到 Worker 編輯器中
 5. 保存並部署
 
-詳細說明請參考 [GitHub 倉庫](https://github.com/KKKKKCAT/CF-IPInfo/)
+代碼請參考 [GitHub 倉庫](https://github.com/KKKKKCAT/CF-IPInfo/)
 
 ## 📄 API 文檔
 
