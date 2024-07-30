@@ -2,6 +2,10 @@
 
 A powerful, serverless, and free IP information dashboard solution powered by Cloudflare Workers, featuring a user-friendly interface and multi-language support.
 
+## README語言 (Languages)
+
+- [English](README.md) - [繁體中文](README_zh-TW.md) - [简体中文](README_zh-CN.md) - [日本語](README_ja.md) - [한국어](README_ko.md)
+
 ## 📱 Demo
 
 - https://xip.im
