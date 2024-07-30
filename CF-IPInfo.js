@@ -112,6 +112,11 @@ async function handleApiRequest(request) {
 
 async function handleRequest(request) {
   const url = new URL(request.url);
+  const acceptHeader = request.headers.get('Accept') || '';
+
+  if (acceptHeader.includes('application/json') || request.headers.get('User-Agent')?.toLowerCase().includes('curl')) {
+    return handleApiRequest(request);
+  }
   
   if (url.pathname === '/api') {
     return handleApiRequest(request);
