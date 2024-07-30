@@ -10,6 +10,7 @@ Cloudflare Workers を利用した強力でサーバーレス、そして無料�
 
 - https://xip.im
 - https://xip.im/api
+- ```curl xip.im```
 
 ## ⭐ 特徴
 
