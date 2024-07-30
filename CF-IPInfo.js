@@ -174,8 +174,9 @@ async function handleRequest(request) {
       border-radius: 20px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.1);
       padding: 40px;
-      width: 100%;
+      width: 90%;
       max-width: 800px;
+      padding: 20px;
       margin: auto;
       text-align: center;
       animation: fadeIn 1s ease-out;
@@ -283,11 +284,20 @@ async function handleRequest(request) {
     }
     @media (max-width: 600px) {
       .container {
-        padding: 20px;
+        width: 95%;
+        padding: 15px;
       }
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+    }
+    
+    @media (max-width: 600px) {
       .info-grid {
         grid-template-columns: 1fr;
       }
+    }
     }
   </style>
 </head>
@@ -337,7 +347,7 @@ async function handleRequest(request) {
   </div>
   <footer>
     <a href="https://github.com/KKKKKCAT/CF-IPInfo/" target="_blank" rel="noopener noreferrer">${t.sourceCode}</a>
-    <span style="margin-left: 10px; color: var(--primary-color);">ver:1.0.0</span>
+    <span style="margin-left: 10px; color: var(--primary-color);">ver:1.0.1</span>
   </footer>
   <script>
       const darkModeToggle = document.getElementById('darkModeToggle');
