@@ -10,6 +10,7 @@ A powerful, serverless, and free IP information dashboard solution powered by Cl
 
 - https://xip.im
 - https://xip.im/api
+- ```curl xip.im```
 
 ## ⭐ Features
 
