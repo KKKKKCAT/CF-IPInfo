@@ -10,6 +10,7 @@
 
 - https://xip.im
 - https://xip.im/api
+- ```curl xip.im```
 
 ## ⭐ 特點
 
