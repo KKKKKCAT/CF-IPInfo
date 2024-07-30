@@ -10,6 +10,7 @@ Cloudflare Workers로 구동되는 강력하고, 서버리스이며, 무료인 I
 
 - https://xip.im
 - https://xip.im/api
+- ```curl xip.im```
 
 ## ⭐ 특징
 
