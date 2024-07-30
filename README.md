@@ -31,6 +31,7 @@
 ## 👀 演示
 
 ![](https://raw.githubusercontent.com/KKKKKCAT/CF-IPInfo/main/img/CF-IPInfo-1.webp)
+![](https://raw.githubusercontent.com/KKKKKCAT/CF-IPInfo/main/img/CF-IPInfo-2.webp)
 
 ## ⚡ 快速開始
 
