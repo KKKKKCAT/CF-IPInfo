@@ -51,7 +51,9 @@ Cloudflare Workers を利用した強力でサーバーレス、そして無料�
 4. 提供されたコードを Worker エディタにコピー＆ペースト
 5. 保存してデプロイ
 
-コードについては、[GitHub リポジトリ](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)を参照してください。
+コードについては、以下を参照してください
+- [通常版](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)
+- [絵文字フラッグ版](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo-emoji.js)
 
 ## 📄 API ドキュメント
 
