@@ -52,8 +52,8 @@
 5. 保存並部署
 
 對於代碼，請參考
-- [普通版本](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)
-- [表情符號國旗版本](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo-emoji.js)
+- [普通版本](CF-IPInfo.js)
+- [表情符號旗版本](CF-IPInfo-emoji.js)
 
 ## 📄 API 文檔
 
