@@ -51,7 +51,9 @@
 4. 將提供的代碼複製並粘貼到 Worker 編輯器中
 5. 保存並部署
 
-代碼請參考 [GitHub 倉庫](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)
+對於代碼，請參考
+- [普通版本](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)
+- [表情符號國旗版本](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo-emoji.js)
 
 ## 📄 API 文檔
 
