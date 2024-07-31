@@ -51,7 +51,9 @@ A powerful, serverless, and free IP information dashboard solution powered by Cl
 4. Copy and paste the provided code into the Worker editor
 5. Save and deploy
 
-For the code, please refer to the [GitHub repository](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)
+For the code, please refer to
+[Normal Ver](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)
+[Emoji Flag Ver](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo-emoji.js)
 
 ## 📄 API Documentation
 
