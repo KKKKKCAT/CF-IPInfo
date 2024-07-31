@@ -373,7 +373,7 @@ async function handleRequest(request) {
   </div>
   <footer>
     <a href="https://github.com/KKKKKCAT/CF-IPInfo/" target="_blank" rel="noopener noreferrer">${t.sourceCode}</a>
-    <span style="margin-left: 10px; color: var(--primary-color);">ver:1.0.1</span>
+    <span style="margin-left: 10px; color: var(--primary-color);">emoji ver:1.0.0</span>
   </footer>
   <script>
       const darkModeToggle = document.getElementById('darkModeToggle');
