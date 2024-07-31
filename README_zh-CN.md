@@ -51,7 +51,9 @@
 4. 将提供的代码複製并粘贴到 Worker 编辑器中
 5. 保存并部署
 
-代码请参考 [GitHub 仓库](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)
+对于代码，请参考
+- [普通版本](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo.js)
+- [表情符号旗版本](https://github.com/KKKKKCAT/CF-IPInfo/blob/main/CF-IPInfo-emoji.js)
 
 ## 📄 API 文档
 
